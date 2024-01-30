@@ -1,2 +1,1 @@
-# binary_trees
-project binry trees
+Project of Binary Trees
